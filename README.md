@@ -1,2 +1,2 @@
 # CshrapCodeSideProject
-C# junior program training
+## C# junior program's study and training myself, show result
