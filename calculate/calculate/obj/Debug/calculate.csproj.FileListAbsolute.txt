@@ -8,3 +8,13 @@ D:\C shrap code\calculate\calculate\bin\Debug\calculate.exe
 D:\C shrap code\calculate\calculate\bin\Debug\calculate.pdb
 D:\C shrap code\calculate\calculate\obj\Debug\calculate.exe
 D:\C shrap code\calculate\calculate\obj\Debug\calculate.pdb
+D:\C#\CshrapCodeSideProject\calculate\calculate\bin\Debug\calculate.exe.config
+D:\C#\CshrapCodeSideProject\calculate\calculate\bin\Debug\calculate.exe
+D:\C#\CshrapCodeSideProject\calculate\calculate\bin\Debug\calculate.pdb
+D:\C#\CshrapCodeSideProject\calculate\calculate\obj\Debug\calculate.csproj.AssemblyReference.cache
+D:\C#\CshrapCodeSideProject\calculate\calculate\obj\Debug\calculate.Form1.resources
+D:\C#\CshrapCodeSideProject\calculate\calculate\obj\Debug\calculate.Properties.Resources.resources
+D:\C#\CshrapCodeSideProject\calculate\calculate\obj\Debug\calculate.csproj.GenerateResource.cache
+D:\C#\CshrapCodeSideProject\calculate\calculate\obj\Debug\calculate.csproj.CoreCompileInputs.cache
+D:\C#\CshrapCodeSideProject\calculate\calculate\obj\Debug\calculate.exe
+D:\C#\CshrapCodeSideProject\calculate\calculate\obj\Debug\calculate.pdb

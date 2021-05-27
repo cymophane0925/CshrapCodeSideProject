@@ -153,7 +153,16 @@ namespace calculate
         private void del_Click(object sender, EventArgs e)
         {
             string s = textBox1.Text;
-            textBox1.Text = s.Substring(0, s.Length - 1);
+            int length = s.Length;
+            if (length > 0)
+            {
+                textBox1.Text = s.Substring(0, s.Length - 1);
+            }
+            else
+            {
+                textBox1.Text = "";
+            }
+            
         }
 
         private void intchang_Click(object sender, EventArgs e)
